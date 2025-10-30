@@ -1,38 +1,40 @@
 # Deep Dash Support
 
-Support page for Deep Dash – contact info, known issues, and FAQs.
+Support page for **Deep Dash** — contact info, known issues, and FAQs.
 
 ---
 
 ## 📬 Contact
 
-For help, feedback, or bug reports, email: **loadandrungames@gmail.com**
+For help, feedback, or bug reports, email:  
+**[loadandrungames@gmail.com](mailto:loadandrungames@gmail.com)**
 
 ---
 
 ## 🐞 Known Issues
 
-- Occasional stutter on older devices (under investigation)  
-- Localization tweaks in progress for help/info boxes  
-- Touch input may feel sensitive on some screen sizes
+- Occasional stutter may occur on older or low-memory devices *(under investigation)*  
+- Localization improvements are ongoing for in-game help and info boxes  
+- Touch sensitivity adjustments are planned for some screen sizes
 
 ---
 
 ## ❓ FAQ
 
-**Q: Is Deep Dash ad-free?**  
-A: Yes! The game is completely ad-free for a clean, uninterrupted experience.
+**Q: Does Deep Dash contain ads?**  
+A: Yes. Deep Dash uses limited, carefully placed ads to support development.  
+Ads are managed through Unity LevelPlay (IronSource) to ensure a smooth, safe experience.
 
-**Q: Does it work offline?**  
-A: Absolutely. No internet connection is required to play the core game.
+**Q: Can I play offline?**  
+A: Yes, most gameplay works fully offline. Some ad features may require an internet connection to load content.
 
 **Q: Are there in-app purchases?**  
-A: Yes—optional billing features are available to enhance gameplay, but they’re not required.  
-An internet connection is only needed for these optional purchases.
+A: No. Deep Dash no longer includes in-app purchases — it’s now completely free to play, supported only by ads.
 
 **Q: What devices are supported?**  
-A: Deep Dash is optimized for iPhone SE and newer, with support for iOS 13 and above.
+A: Deep Dash runs on Android 8.0 (Oreo) and newer, and on iPhone SE (2nd gen) or newer running iOS 13 and above.
 
 ---
 
-Thanks for playing Deep Dash!
+Thanks for playing **Deep Dash!**  
+Your support helps keep development going. 🌀
